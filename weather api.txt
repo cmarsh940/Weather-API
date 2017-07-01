@@ -1,0 +1,1 @@
+http://api.openweathermap.org/data/2.5/forecast/daily?id=524901&APPID=ff253a1779de12ff5936f745c88a7691
